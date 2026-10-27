@@ -1,14 +1,14 @@
-# 🧠 AI_COE — Artificial Intelligence & Deep Learning
+# AI_COE — Artificial Intelligence & Deep Learning
 
-Exploring Artificial Intelligence through practical implementations of **Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), and Transformer architectures** using Python and Jupyter Notebooks.
+Exploring Artificial Intelligence through practical implementations of **Artificial Neural Networks (ANNs), Convolutional Neural Networks (CNNs), and Transformer architectures** using Python and Jupyter notebooks.
 
 This repository contains hands-on experiments designed to understand neural network architectures, model training, and the fundamentals of modern AI.
 
-## 📌 Overview
+## Overview
 
-The **AI_COE** repository brings together implementations of three important neural network architectures. Each notebook provides a practical environment for exploring how different deep learning approaches work.
+The **AI_COE** repository brings together implementations of three important neural network architectures. Each notebook provides a practical environment for exploring how different deep learning approaches are structured and trained.
 
-### 🔹 Projects Included
+### Projects Included
 
 | Notebook | Architecture | Description |
 |---|---|---|
@@ -16,7 +16,7 @@ The **AI_COE** repository brings together implementations of three important neu
 | `CNN.ipynb` | Convolutional Neural Network | Explores convolution-based architectures designed to learn spatial features, particularly from image data. |
 | `TRANSFORMER.ipynb` | Transformer | Explores attention-based neural network architectures for learning relationships between elements in sequential data. |
 
-## 🎯 Objectives
+## Objectives
 
 - Understand the fundamentals of artificial intelligence and deep learning.
 - Explore different neural network architectures through practical implementations.
@@ -24,7 +24,7 @@ The **AI_COE** repository brings together implementations of three important neu
 - Experiment with model training and evaluation.
 - Build a foundation for developing more advanced machine learning and deep learning applications.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** — Primary programming language.
 - **Jupyter Notebook** — Interactive development and experimentation.
@@ -35,7 +35,7 @@ The **AI_COE** repository brings together implementations of three important neu
 
 *The exact libraries and dependencies may vary between notebooks.*
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 AI_COE/
@@ -46,7 +46,7 @@ AI_COE/
 └── README.md          # Project documentation
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -108,7 +108,7 @@ Open any of the following notebooks in your browser:
 
 Execute the cells sequentially to explore the implementations.
 
-## 🧠 Understanding the Architectures
+## Understanding the Architectures
 
 ### 1. Artificial Neural Network (ANN)
 
@@ -151,7 +151,7 @@ Transformers use attention mechanisms to learn relationships between elements in
 
 *The concepts listed above describe the general architectures; the specific components implemented in each notebook depend on its code.*
 
-## 📊 Experiments and Evaluation
+## Experiments and Evaluation
 
 The notebooks can be used to explore model behavior and evaluate performance.
 
@@ -165,7 +165,7 @@ Depending on the implementation, useful evaluation methods include:
 
 Actual results should be recorded from the corresponding notebook executions rather than assumed in advance.
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 Potential improvements include:
 
@@ -176,7 +176,7 @@ Potential improvements include:
 - Documenting training results and evaluation metrics.
 - Exploring advanced architectures and real-world AI applications.
 
-## 🤝 Contributions
+## Contributions
 
 Suggestions and improvements are welcome.
 
@@ -185,13 +185,12 @@ Suggestions and improvements are welcome.
 3. Make your modifications.
 4. Submit a pull request describing your improvements.
 
-## 👩‍💻 Author
+## Author
 
 **Sanjusri21**
 
 GitHub: [@Sanjusri21](https://github.com/Sanjusri21)
 
-
 ---
 
-⭐ If you find this repository useful for learning AI and deep learning, consider giving it a star!
+If you find this repository useful for learning AI and deep learning, consider giving it a star!
